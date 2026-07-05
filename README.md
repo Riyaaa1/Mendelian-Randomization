@@ -56,4 +56,9 @@ Tests for pleiotropy (MR-Egger intercept = 0.048, p = 0.704) and heterogeneity
 non-significant (p = 1.0, RSS = 0.73).
 
 
-The paradoxical direction of effect i.e. increased stroke risk contrary to cardioprotective effects of GLP1-RAs in CVOTs, may reflect limitation of whole-blood eQTLs as proxies for drug action.
+The paradoxical direction of effect i.e. increased stroke risk contrary to cardioprotective effects of GLP1-RAs in CVOTs, may reflect limitation of whole-blood eQTLs as proxies for drug action. 
+Randomised trials studying comparative effectiveness of drugs against health outcomes like MACE, often include non-healthier group of people eg. One who have Type 2 diabetes, to ensure that outcome occurs. It is hard to achieve similar condition in mendelian randomisation study. 
+Also, drug-target action are often acute, and germline genetic proxies are fixed at conception. 
+
+
+
