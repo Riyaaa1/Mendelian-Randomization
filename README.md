@@ -1,4 +1,4 @@
-# Mendelian Randomization
+# Mendelian Randomization (WIP)
 
 Replication of [Yu et al. (2024)](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2024.1449185/full) estimating the causal relationship between GLP-1 receptor agonists (GLP-1RA) and ischemic stroke using Mendelian Randomization.
 
