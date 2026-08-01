@@ -48,7 +48,7 @@ glucose-lowering mechanism of GLP-1RAs.
 ### Positive Control (GLP1-RA --> T2D)
 
 GLP-1RA proxies were significantly associated with reduced odds of T2D
-(IVW: log-odds = -0.196, p = 2.3×10⁻¹⁷), validating instrument relevance.
+(IVW: OR = 0.82, p = 2.3×10⁻¹⁷), validating instrument relevance.
 No heterogeneity (Q-statistic p > 0.05) or pleiotropy (MR-Egger intercept = 0.046, 
 p = 0.625) was detected.
 
