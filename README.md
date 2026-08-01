@@ -5,10 +5,15 @@ Replication of [Yu et al. (2024)](https://www.frontiersin.org/journals/cardiovas
 ## Required Packages
 
 library(data.table)
+
 library(dplyr)
+
 library(ggplot2)
+
 library(TwoSampleMR) 
+
 library(ieugwasr)
+
 library(MRPRESSO) 
 
 ## Data
